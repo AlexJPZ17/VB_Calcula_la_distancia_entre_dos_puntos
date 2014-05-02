@@ -1,0 +1,10 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\bin\Debug\Distancia entre 2 puntos.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\bin\Debug\Distancia entre 2 puntos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\bin\Debug\Distancia entre 2 puntos.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\bin\Debug\Distancia entre 2 puntos.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\obj\Debug\Distancia_entre_2_puntos.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\obj\Debug\Distancia_entre_2_puntos.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\obj\Debug\Distancia entre 2 puntos.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\obj\Debug\Distancia entre 2 puntos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\obj\Debug\Distancia entre 2 puntos.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Distancia entre 2 puntos\Distancia entre 2 puntos\obj\Debug\Distancia entre 2 puntos.pdb
